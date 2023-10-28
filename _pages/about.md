@@ -17,3 +17,5 @@ I am an Assistant Professor of [Economics](https://www.cb.cityu.edu.hk/ef/) at t
 
 My main research fields are international trade, macroeconomics and economic growth.
 
+Email: [shengcai@cityu.edu.hk](mailto:shengcai@cityu.edu.hk)
+
