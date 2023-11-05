@@ -1,5 +1,7 @@
 # My website
 
+> :warning: If you build your own website with this repo, please make sure to **replace `tracking_id` in `_config.yml` or leave it empty.**
+
 Built using the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes). Hat tip to [Grant McDermott](https://grantmcdermott.com/), from whom I learned a lot.
 
 These are some changes I've made. They are more for my own reference later. Most questions of the configuration can be solved from reading the [quick-start guides of Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/) and searching the discussion [here](https://github.com/mmistakes/minimal-mistakes/discussions).
