@@ -21,6 +21,7 @@ $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 /* sans serif typefaces */
 $sans-serif-narrow: $sans-serif !default;
 $helvetica: Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+$tahoma: Tahoma, sans serif;
 
 /* serif typefaces */
 $georgia: Georgia, serif !default;
@@ -29,8 +30,8 @@ $bodoni: "Bodoni MT", serif !default;
 $calisto: "Calisto MT", serif !default;
 $garamond: Garamond, serif !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $sans-serif !default;
+$global-font-family:  $tahoma !default; //$sans-serif
+$header-font-family: $tahoma !default; //$sans-serif
 $caption-font-family: $serif !default;
 
 /* type scale */
