@@ -9,7 +9,9 @@ author_profile: true
 ---
 <p style="font-size:18px">
 
-<em> Advanced Macroeconomics (PhD level) </em>
+<em> Advanced Macroeconomics (PhD level) </em> <br>
+
+<em> International Finance </em>
 
 </p>
 
