@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working papers
 
-**Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/view/wei-xiang). 
+**Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/view/wei-xiang). *Revise and Resubmit, Journal of International Economics.*
 
 [PDF](/assets/files/cx22_jmp.pdf){: .btn--city} [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4284058){: .btn--city}
 
