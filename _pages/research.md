@@ -16,7 +16,7 @@ author_profile: true
 <!-- We study the role that trade and internal migration play in the process of spatial and aggregate growth. We consider an economy in which growth is shaped by the best global and local ideas that contribute to the local stock of knowledge. Global ideas diffuse to locations that are more exposed to international trade. Local ideas diffuse across space when workers move to another location. We embed the diffusion of ideas through trade and migration into a dynamic spatial framework with trade, forward-looking migration decisions, and capital accumulation. We characterize the equilibrium properties of the model, and apply the framework to study China’s spatial and aggregate growth during the 1990s and 2000s. International trade and internal migration are important mechanisms for idea diffusion that contributed to China’s spatial and aggregate growth, with heterogeneous effects across space. Using patent data, we provide further evidence of idea diffusion through trade and migration. -->
 
 
-## Publication
+## Publications
 
 **Multinational Production, Technology Diffusion, and Economic Growth**, with [Wei Xiang](https://sites.google.com/view/wei-xiang). *Accepted at **Journal of International Economics**.*
 
