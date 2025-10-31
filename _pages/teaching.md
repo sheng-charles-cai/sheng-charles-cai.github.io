@@ -13,11 +13,14 @@ author_profile: true
 
 <em> International Finance </em>
 
+<em> International Trade </em>
+
 </p>
 
 ### Yale University (Teaching Assistant)
 ---
 <p style="font-size:18px">
+
 <em> Introduction to Game Theory, </em> TA to Zvika Neeman <br>
 
 <em> Introduction to Data Analysis and Econometrics, </em> TA to Guillermo Noguera <br>
@@ -29,6 +32,7 @@ author_profile: true
 <em> International Economics, </em> TA to Peter Schott <br>
 
 <em> Monetary Policy, </em> TA to William English <br>
+
 </p>
 
 

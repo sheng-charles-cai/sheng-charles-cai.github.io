@@ -37,3 +37,9 @@ We calibrate the model using panel data on bilateral trade flows from the CEPII 
 
 The calibrated model yields the following results. First, MP plays a significant role in economic growth across countries. Between 2005 and 2016, changes in MP costs explained an average of 26.2% of economic growth across countries. Second, motivated by the recent events during the Russia-Ukraine war, we use Russia as an example to study the impact of economic sanctions on a country. A ten-year block of MP to Russia would cause a 0.6% immediate reduction in real wage and a 3.7% loss in welfare for Russia. Countries like Latvia, Vietnam, and China would also be affected, with an average loss of 0.10%. Third, a US reshoring initiative to bring production back (by increasing the US outward MP costs by 20%) would immediately increase the US real consumption by 0.14%, but it would decrease the annual growth rate of consumption level everywhere by about 0.05 percentage points. As a result, the overall US welfare would drop by 0.11%. While the reshoring policy is short-sighted for US growth, it does achieve an objective of US technological advantage relative to other countries. Compared to the benchmark, the US-China TFP ratio would be higher because of the reshoring policy. -->
 
+## Work in Progress
+**"Quantifying Decoupling in Global Production and Trade"** \\
+with [Wei Xiang](https://sites.google.com/view/wei-xiang) and Yu Zhao
+
+
+
