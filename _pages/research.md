@@ -11,7 +11,7 @@ author_profile: true
 with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), and [Wei Xiang](https://sites.google.com/view/wei-xiang) 
 
 
-[**"Quantifying Decoupling in Global Production and Trade"**](/assets/files/CXZ_Decoupling.pdf) **(November 2025)** \\
+[**"Quantifying Decoupling in Global Production and Trade"**](/assets/files/CXZ_Decoupling.pdf) **(February 2026)** \\
 with [Wei Xiang](https://sites.google.com/view/wei-xiang) and Yu Zhao
 
 
