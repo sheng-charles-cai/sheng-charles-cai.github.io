@@ -14,7 +14,7 @@ with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernan
 [**"Quantifying Decoupling in Global Production and Trade"**](/assets/files/CXZ_Decoupling.pdf) **(February 2026)** \\
 with [Wei Xiang](https://sites.google.com/view/wei-xiang) and Yu Zhao
 
-[**Platforms for Growth? Multinationals, Trade, and Technology Diffusion**](assets/files/CFH_250326.pdf) **(March 2026)** \\
+[**Platforms for Growth? Multinationals, Trade, and Technology Diffusion**](/assets/files/CFH_250326.pdf) **(March 2026)** \\
 with [John Finlay](https://johnfinlay.me/) and [Nghiêm Q. Huỳnh](https://nghiemhuynh.com/)
 
 
