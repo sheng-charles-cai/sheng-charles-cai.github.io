@@ -12,6 +12,7 @@ with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernan
 
 
 [**"Quantifying Decoupling in Global Production and Trade"**](/assets/files/CXZ_Decoupling.pdf) **(February 2026)** \\
+Revise and Resubmit, *Journal of International Economics* \\
 with [Wei Xiang](https://sites.google.com/view/wei-xiang) and Yu Zhao
 
 [**Platforms for Growth? Multinationals, Trade, and Technology Diffusion**](https://nghiemhuynh.com/papers/CFH.pdf) **(March 2026)** \\
