@@ -7,15 +7,14 @@ author_profile: true
 
 ## Working papers
 
-[**"Mechanics of Spatial Growth"**](/assets/files/MSG013125.pdf) **(January 2025)** \\
-with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), and [Wei Xiang](https://sites.google.com/view/wei-xiang) 
-
-
 [**"Quantifying Decoupling in Global Production and Trade"**](/assets/files/CXZ_Decoupling.pdf) **(February 2026)** \\
 Revise and Resubmit, *Journal of International Economics* \\
 with [Wei Xiang](https://sites.google.com/view/wei-xiang) and Yu Zhao
 
-[**Platforms for Growth? Multinationals, Trade, and Technology Diffusion**](https://nghiemhuynh.com/papers/CFH.pdf) **(March 2026)** \\
+[**"Mechanics of Spatial Growth"**](/assets/files/MSG013125.pdf) **(January 2025)** \\
+with [Lorenzo Caliendo](https://sites.google.com/site/lorenzocaliendo/), [Fernando Parro](https://sites.google.com/site/fernandoparro1/home), and [Wei Xiang](https://sites.google.com/view/wei-xiang) 
+
+[**"Platforms for Growth? Multinationals, Trade, and Technology Diffusion"**](https://nghiemhuynh.com/papers/CFH.pdf) **(March 2026)** \\
 with [John Finlay](https://johnfinlay.me/) and [Nghiêm Q. Huỳnh](https://nghiemhuynh.com/)
 
 

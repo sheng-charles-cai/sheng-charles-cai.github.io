@@ -1,39 +1,31 @@
 ---
 permalink: /teaching/    
 title: "Teaching"
-# layout: single
+layout: single
 author_profile: true
 ---
 
 ### City University of Hong Kong 
 ---
-<p style="font-size:18px">
+<!-- <p style="font-size:18px"> -->
 
-<em> Advanced Macroeconomics (PhD level) </em> <br>
-
-<em> International Finance </em>
-
-<em> International Trade </em>
-
-</p>
+Advanced Macroeconomics (PhD level) \\
+International Finance\\
+International Trade 
+<!-- </p> -->
 
 ### Yale University (Teaching Assistant)
 ---
-<p style="font-size:18px">
+<!-- <p style="font-size:18px"> -->
 
-<em> Introduction to Game Theory, </em> TA to Zvika Neeman <br>
+Introduction to Game Theory, TA to Zvika Neeman \\
+Introduction to Data Analysis and Econometrics, TA to Guillermo Noguera \\
+General Equilibrium Theory, TA to John Geanakoplos \\
+Introductory Macroeconomics, TA to Samuel Kortum and Aleh Tsyvinski \\
+International Economics, TA to Peter Schott \\
+Monetary Policy, TA to William English 
 
-<em> Introduction to Data Analysis and Econometrics, </em> TA to Guillermo Noguera <br>
-
-<em> General Equilibrium Theory, </em> TA to John Geanakoplos <br>
-
-<em> Introductory Macroeconomics, </em> TA to Samuel Kortum and Aleh Tsyvinski <br>
-
-<em> International Economics, </em> TA to Peter Schott <br>
-
-<em> Monetary Policy, </em> TA to William English <br>
-
-</p>
+<!-- </p> -->
 
 
 
